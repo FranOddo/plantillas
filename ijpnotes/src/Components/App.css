@@ -1,0 +1,87 @@
+h1{
+  font-size: 25px;
+  background: linear-gradient(rgb(1, 168, 245), rgb(3, 175, 228), #329BFF, #4C64FF, #6536FF, #8000FF );
+}
+#dp{
+  background: linear-gradient(rgb(1, 168, 245), rgb(3, 175, 228), #329BFF, #4C64FF, #6536FF, #8000FF );
+  margin-top: 140px;
+  font-family: 'Nova Square', cursive;
+  color: white;
+  text-align: center;
+}
+#corregir1{
+  display: inline-flex;
+}
+#dni{
+  height: 25px;
+  width: 250px;
+  border-style: ridge;
+  border-color: cyan;
+  border-width: 2px;
+  text-align: -webkit-left;
+  border-radius: 9px 9px 9px 9px;
+  padding: 4px 4px 4px 4px;
+}
+.nombres{
+  text-align: center;
+  font-family: 'Nova Square', cursive;
+  margin-left: -16px;
+}
+#search{
+  height: 37px;
+  margin-left: 8px;
+  border-style: outset;
+  border-radius: 6px;
+  font-size: 15px;
+  background-color: rgba(209, 202, 202, 0.74);
+  border-color: cyan;
+  border-width: 1px 2px 2px 1px;
+}
+#dos{
+  margin-left: -18px;
+}
+#tres{
+  margin-left: -32px;
+}
+#cuatro{
+  margin-left: -16px;
+}
+#logo{
+  height: 120px;
+  position: static;
+  margin: 0px 0px 20px 0px;
+  
+}
+.App {
+  text-align: center;
+  background-color: white;
+}
+#consigna{
+  font-size: 19px;
+  text-align: center;
+  font-family: 'Nova Square', cursive;
+  color: black;
+}
+#sign{
+  text-align: center;
+}
+.App-header {
+  background-color: rgb(1, 22, 209);
+  height: 200px;
+  color: rgb(1, 22, 209);
+}
+
+.App-title {
+  margin-top: -20px;
+  height: 30px;
+  font-family: 'Nova Square', cursive;
+  color: rgb(255, 255, 255);
+}
+
+.App-intro {
+  font-size: large;
+}
+
+#search:hover{
+  background-color: #329BFF;
+}
